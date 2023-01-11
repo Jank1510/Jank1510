@@ -8,7 +8,7 @@ System.out.println("HI THERE");
 
 - 🔭 I’m currently working on my proyects
 - 🌱 I’m currently learning Spring Boot
-- - 🌱 I’m java developer
+- 🌱 I’m java developer
 - 👯 I'm an open source lover
 - 📫 How to reach me: jeanhurt15@gmail.com
 - 😄 Pronouns: he/him
