@@ -14,6 +14,7 @@ System.out.println("HI THERE");
 - 😄 Pronouns: he/him
 - 💬 Ask me about Myself
 - Click Virtual resume: https://jank1510.github.io/jankCVonline/ 
+- Finished project ☑
 
 
 
